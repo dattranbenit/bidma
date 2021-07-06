@@ -44,7 +44,7 @@ import CustomInputProcedure from "../../components/CustomInput/CustomInputProced
 // import PersonIcon from "../../components/Icons/PersonIcon";
 // import LockIcon from "../../components/Icons/LockIcon";
 // import EyeIcon from "../../components/Icons/EyeIcon";
-import MailIcon from "../../components/Icons/MailICon";
+import MailIcon from "../../components/Icons/MailIcon";
 import LeftArrowIcon from "../../components/Icons/LeftArrowIcon";
 import leaf from "../../public/images/dashboard/leaf.png"
 
