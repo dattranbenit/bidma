@@ -1,0 +1,25 @@
+.rec.rec-pagination {
+  position: absolute;
+  bottom: 15px;
+}
+.rec.rec-dot {
+    background: #C0C0C0;
+    border-radius: 50%;
+    box-shadow: unset;
+    height: 6px;
+    width: 6px;
+    margin: 5px 4px;
+
+}
+.rec.rec-dot:hover, .rec.rec-dot:focus{
+  background: #C0C0C0;
+  box-shadow: unset;
+}
+.rec.rec-dot_active {
+  background: #E26740;
+  border: unset;
+  border-radius: 20px;
+  height: 6px;
+  width: 30px;
+  box-shadow: unset
+}

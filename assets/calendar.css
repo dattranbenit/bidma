@@ -1,0 +1,84 @@
+.rbc-event-content {
+  text-align: end;
+}
+
+.rbc-event,
+.rbc-event-allday {
+  border-right: 10px black solid;
+  border-radius: 0;
+}
+
+.rbc-row-segment {
+  padding: 0 15px;
+}
+
+.rbc-header {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: right;
+  color: #4e5260;
+}
+
+.rbc-month-view {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.rbc-day-bg + .rbc-day-bg {
+  border: none;
+  border-right: 1px solid #ddd;
+}
+
+.rbc-day-bg {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+.rbc-header + .rbc-header {
+  border-left: none;
+  padding-bottom: 10px;
+}
+
+.rbc-date-cell {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  color: #4e5260;
+  padding-top: 8px;
+}
+
+.rbc-off-range {
+  color: #b7bbcb;
+}
+
+.rbc-off-range-bg {
+  background-color: inherit;
+}
+ 
+.rbc-calendar {
+    height: 850px !important;
+    background: white;
+    padding: 0 30px 30px 30px;
+}
+
+button.MuiToggleButton-root.Mui-selected {
+  background-color: #fff !important;
+}
+
+button.MuiToggleButton-root {
+  background-color: #F2F3F7;
+  padding: 5px;
+}
+.MuiInput-underline:before {
+  border-bottom: 1px solid #E26740 !important;
+}
+.MuiInput-underline:after {
+  border-bottom: 1px solid #E26740 !important;
+}
